@@ -1,2 +1,2 @@
-# Employment-Management-Portal
-Employment Management Portal
+# Employee-Management-Portal
+Employee Management Portal
